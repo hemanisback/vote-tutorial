@@ -283,6 +283,7 @@ and (max-device-width : 568px) {
     width: 540px;
     height: 70px;
     background-color: white;
+    margin-bottom: 1rem;
   }
 
 }
@@ -364,6 +365,7 @@ and (max-device-width : 667px) {
     width: 540px;
     height: 70px;
     background-color: white;
+    margin-bottom: 1rem;
   }
 
 }
