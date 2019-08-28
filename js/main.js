@@ -54,16 +54,16 @@ function modal(element) {
     var userAddress = document.getElementById('address');
     switch (e.target.value) {
       case 'bc':
-        userAddress.textContent = "XXXBC"
+        userAddress.textContent = "0x9c66cf3fa2ABc4d706d1dEd2b9Bd252E10096327"
         break;
       case 'bd':
-        userAddress.textContent = "XXXBD"
+        userAddress.textContent = "0x6c452727B9Fee468a5ECb0DdF8e69cCa605536ac"
         break;
       case 'ia':
-        userAddress.textContent = "XXXIA"
+        userAddress.textContent = "0x334592C96de5c21009F4A7424d64Eec117AfB315"
         break;
       case 'sw':
-        userAddress.textContent = "XXXSW"
+        userAddress.textContent = "0x528b32B0E1D7ab66670E74D68D5d060cFfddc1df"
         break;
     }
   })
