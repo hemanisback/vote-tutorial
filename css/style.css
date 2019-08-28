@@ -225,31 +225,31 @@ and (max-device-width : 568px) {
   }
 
   #step-number-modal {
-    font-size: 7rem;
+    font-size: 6.5rem;
     margin-left: 4.3rem;
     /* margin-right: 2rem; */
   }
 
   .step-text-modal-big {
-    font-size: 5rem;
+    font-size: 4.5rem;
     margin-left: 4.3rem;
     margin-right: 2rem;
   }
 
   .step-text-modal-medium {
-    font-size: 3.5rem;
+    font-size: 3rem;
     margin-left: 4.3rem;
     margin-right: 2rem;
   }
 
   .step-text-modal-bold {
-    font-size: 3.5rem;
+    font-size: 3rem;
     margin-left: 4.3rem;
     margin-right: 2rem;
   }
 
   .step-link-modal {
-    font-size: 3.5rem;
+    font-size: 3rem;
     margin-left: 4.3rem;
     margin-right: 2rem;
   }
@@ -286,31 +286,31 @@ and (max-device-width : 667px) {
   }
 
   #step-number-modal {
-    font-size: 7rem;
+    font-size: 6.5rem;
     margin-left: 4.3rem;
     /* margin-right: 2rem; */
   }
 
   .step-text-modal-big {
-    font-size: 5rem;
+    font-size: 4.5rem;
     margin-left: 4.3rem;
     margin-right: 2rem;
   }
 
   .step-text-modal-medium {
-    font-size: 3.5rem;
+    font-size: 3rem;
     margin-left: 4.3rem;
     margin-right: 2rem;
   }
 
   .step-text-modal-bold {
-    font-size: 3.5rem;
+    font-size: 3rem;
     margin-left: 4.3rem;
     margin-right: 2rem;
   }
 
   .step-link-modal {
-    font-size: 3.5rem;
+    font-size: 3rem;
     margin-left: 4.3rem;
     margin-right: 2rem;
   }
