@@ -257,8 +257,8 @@ and (max-device-width : 568px) {
 
   .step-text-modal-bold {
     font-size: 3rem;
-    /* margin-left: 4.3rem;
-    margin-right: 2rem; */
+    margin-left: 1em;
+    margin-right: 1em;
   }
 
   .step-link-modal {
@@ -290,6 +290,10 @@ and (max-device-width : 568px) {
     background-color: white;
     margin-top: 2rem;
     margin-bottom: 1rem;
+  }
+
+  #adddress {
+    margin-right: 1em;
   }
 
 }
@@ -339,8 +343,8 @@ and (max-device-width : 667px) {
 
   .step-text-modal-bold {
     font-size: 3rem;
-    /* margin-left: 4.3rem;
-    margin-right: 2rem; */
+    margin-left: 1em;
+    margin-right: 1em;
   }
 
   .step-link-modal {
@@ -373,5 +377,10 @@ and (max-device-width : 667px) {
     margin-top: 2rem;
     margin-bottom: 1rem;
   }
+
+  #adddress {
+    margin-right: 1em;
+  }
+
 
 }
