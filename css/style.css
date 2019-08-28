@@ -257,8 +257,7 @@ and (max-device-width : 568px) {
 
   .step-text-modal-bold {
     font-size: 3rem;
-    margin-left: 1em;
-    margin-right: 1em;
+    padding: 0 1em 0 1em;
   }
 
   .step-link-modal {
@@ -290,10 +289,6 @@ and (max-device-width : 568px) {
     background-color: white;
     margin-top: 2rem;
     margin-bottom: 1rem;
-  }
-
-  #adddress {
-    margin-right: 1em;
   }
 
 }
@@ -343,8 +338,7 @@ and (max-device-width : 667px) {
 
   .step-text-modal-bold {
     font-size: 3rem;
-    margin-left: 1em;
-    margin-right: 1em;
+    padding: 0 1em 0 1em;
   }
 
   .step-link-modal {
@@ -377,10 +371,5 @@ and (max-device-width : 667px) {
     margin-top: 2rem;
     margin-bottom: 1rem;
   }
-
-  #adddress {
-    margin-right: 1em;
-  }
-
 
 }
