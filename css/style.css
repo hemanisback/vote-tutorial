@@ -187,7 +187,10 @@ h1 {
 
 .break {
   word-break: break-all;
+  width: 100%;
   text-align: center;
+  font-weight: bold;
+  margin-top: 0;
 }
 
 /*
