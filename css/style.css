@@ -186,7 +186,7 @@ h1 {
 }
 
 .break {
-  border: 2px solid black;
+  /* border: 2px solid black; */
   word-break: break-all;
 }
 
@@ -225,7 +225,8 @@ and (max-device-width : 568px) {
   }
 
   .step-text-clear {
-    font-size: 3em;
+    font-size: 3rem;
+    margin-top: 1rem;
   }
 
   .close {
@@ -236,7 +237,6 @@ and (max-device-width : 568px) {
   #step-number-modal {
     font-size: 6.5rem;
     margin-left: 4.3rem;
-    /* margin-right: 2rem; */
   }
 
   .step-text-modal-big {
@@ -305,7 +305,8 @@ and (max-device-width : 667px) {
   }
 
   .step-text-clear {
-    font-size: 3em;
+    font-size: 3rem;
+    margin-top: 1rem;
   }
 
   .close {
