@@ -23,7 +23,7 @@ function modal(element) {
         break;
       case 'B':
         var myTextBold = element.children[i].textContent;
-        document.querySelector('.modal').insertAdjacentHTML('beforeend', '<div class="step-text-modal-bold">' + myTextBold + '</div>');
+        document.querySelector('.modal').insertAdjacentHTML('beforeend', '<div class="step-text-modal-bold break">' + myTextBold + '</div>');
         break;
       case 'IMG':
         var myImgAlt = element.children[i].alt;
@@ -33,7 +33,7 @@ function modal(element) {
         document.querySelector('.modal').insertAdjacentHTML('beforeend', '<br>');
         break;
       case "SELECT":
-        document.querySelector('.modal').insertAdjacentHTML('beforeend', '<div class="flex"><select id="select"><option value="default">Choisissez...</option><option value="bc">Blockchain</option><option value="bd">Big Data</option><option value="ia">Intelligence artificielle</option><option value="sw">Smart Workplace</option></select><p class="step-text-modal-medium">Votre adresse : <b id="address"></b></p></div>');
+        document.querySelector('.modal').insertAdjacentHTML('beforeend', '<div class="flex"><select id="select"><option value="default">Choisissez...</option><option value="bc">Blockchain</option><option value="bd">Big Data</option><option value="ia">Intelligence artificielle</option><option value="sw">Smart Workplace</option></select><p>Votre adresse : <b id="address"></b></p></div>');
         break;
     }
   };
