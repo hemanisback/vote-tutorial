@@ -258,6 +258,20 @@ and (max-device-width : 568px) {
     width: 90%;
   }
 
+  .flex {
+    margin-top: 1rem;
+    font-size: 3rem;
+    margin-left: 4.3rem;
+  }
+
+  #select {
+    font-size: 3rem;
+    width: 400px;
+    height: 70px;
+    padding-left: 0.2em;
+    border: none;
+  }
+
 }
 
 @media only screen
@@ -317,6 +331,20 @@ and (max-device-width : 667px) {
 
   .img-modal {
     width: 90%;
+  }
+
+  .flex {
+    margin-top: 1rem;
+    font-size: 3rem;
+    margin-left: 4.3rem;
+  }
+
+  #select {
+    font-size: 3rem;
+    width: 400px;
+    height: 70px;
+    padding-left: 0.2em;
+    border: none;
   }
 
 }
