@@ -168,7 +168,12 @@ h1 {
   align-items: flex-start;
   justify-content: flex-start;
   margin-top: 2em;
+}
+
+.flex p {
   font-size: 1.5rem;
+  color: white;
+  margin-left: 2.5em;
 }
 
 #select {
@@ -259,14 +264,18 @@ and (max-device-width : 568px) {
 
   .flex {
     margin-top: 1rem;
-    font-size: 3rem;
     margin-left: 4.3rem;
+  }
+
+  .flex p {
+    font-size: 3rem;
+    color: white;
   }
 
   #select {
     margin-left: 0;
     font-size: 3rem;
-    width: 470px;
+    width: 510px;
     height: 70px;
     background-color: white;
   }
@@ -334,14 +343,18 @@ and (max-device-width : 667px) {
 
   .flex {
     margin-top: 1rem;
-    font-size: 3rem;
     margin-left: 4.3rem;
+  }
+
+  .flex p {
+    font-size: 3rem;
+    color: white;
   }
 
   #select {
     margin-left: 0;
     font-size: 3rem;
-    width: 470px;
+    width: 510px;
     height: 70px;
     background-color: white;
   }
