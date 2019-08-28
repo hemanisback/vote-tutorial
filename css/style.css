@@ -270,12 +270,13 @@ and (max-device-width : 568px) {
   .flex p {
     font-size: 3rem;
     color: white;
+    margin-left: 0;
   }
 
   #select {
     margin-left: 0;
     font-size: 3rem;
-    width: 510px;
+    width: 540px;
     height: 70px;
     background-color: white;
   }
@@ -349,12 +350,13 @@ and (max-device-width : 667px) {
   .flex p {
     font-size: 3rem;
     color: white;
+    margin-left: 0;
   }
 
   #select {
     margin-left: 0;
     font-size: 3rem;
-    width: 510px;
+    width: 540px;
     height: 70px;
     background-color: white;
   }
