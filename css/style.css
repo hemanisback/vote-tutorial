@@ -185,6 +185,10 @@ h1 {
   border: none;
 }
 
+.break {
+  word-break: break-all;
+}
+
 /*
   ##Device = Low Resolution Tablets, Mobiles (Landscape)
   ##Screen = B/w 481px to 767px
@@ -263,7 +267,7 @@ and (max-device-width : 568px) {
   }
 
   .flex {
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     margin-left: 4.3rem;
   }
 
@@ -343,7 +347,7 @@ and (max-device-width : 667px) {
   }
 
   .flex {
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     margin-left: 4.3rem;
   }
 
