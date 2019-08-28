@@ -33,7 +33,7 @@ function modal(element) {
         document.querySelector('.modal').insertAdjacentHTML('beforeend', '<br>');
         break;
       case "SELECT":
-        document.querySelector('.modal').insertAdjacentHTML('beforeend', '<div class="flex"><select id="select"><option value="default">Choisissez...</option><option value="bc">Blockchain</option><option value="bd">Big Data</option><option value="ia">Intelligence artificielle</option><option value="sw">Smart Workplace</option></select><p>Votre adresse : <b id="address" class="break"></b></p></div>');
+        document.querySelector('.modal').insertAdjacentHTML('beforeend', '<div class="flex"><select id="select"><option value="default">Choisissez...</option><option value="bc">Blockchain</option><option value="bd">Big Data</option><option value="ia">Intelligence artificielle</option><option value="sw">Smart Workplace</option></select><p>Votre adresse : <br><b id="address" class="break"></b></p></div>');
         break;
     }
   };
