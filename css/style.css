@@ -186,7 +186,6 @@ h1 {
 }
 
 .break {
-  /* border: 2px solid black; */
   word-break: break-all;
 }
 
@@ -213,11 +212,11 @@ and (min-device-width : 320px)
 and (max-device-width : 568px) {
 
   .wrapper {
-    grid-template-rows: 280px 280px 280px 280px;
+    grid-template-rows: 260px 260px 260px 260px;
   }
 
   .wrapper > div {
-    margin: 0.5em 2em 0.5em 2em;
+    margin: 0.7em 2em 0.7em 2em;
   }
 
   .step-number {
@@ -293,11 +292,11 @@ and (min-device-width : 375px)
 and (max-device-width : 667px) {
 
   .wrapper {
-    grid-template-rows: 280px 280px 280px 280px;
+    grid-template-rows: 260px 260px 260px 260px;
   }
 
   .wrapper > div {
-    margin: 0.5em 2em 0.5em 2em;
+    margin: 0.7em 2em 0.7em 2em;
   }
 
   .step-number {
