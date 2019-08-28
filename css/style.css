@@ -186,6 +186,7 @@ h1 {
 }
 
 .break {
+  border: 2px solid black;
   word-break: break-all;
 }
 
