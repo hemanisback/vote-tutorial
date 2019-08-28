@@ -257,8 +257,8 @@ and (max-device-width : 568px) {
 
   .step-text-modal-bold {
     font-size: 3rem;
-    margin-left: 4.3rem;
-    margin-right: 2rem;
+    /* margin-left: 4.3rem;
+    margin-right: 2rem; */
   }
 
   .step-link-modal {
@@ -323,7 +323,6 @@ and (max-device-width : 667px) {
   #step-number-modal {
     font-size: 6.5rem;
     margin-left: 4.3rem;
-    /* margin-right: 2rem; */
   }
 
   .step-text-modal-big {
@@ -340,8 +339,8 @@ and (max-device-width : 667px) {
 
   .step-text-modal-bold {
     font-size: 3rem;
-    margin-left: 4.3rem;
-    margin-right: 2rem;
+    /* margin-left: 4.3rem;
+    margin-right: 2rem; */
   }
 
   .step-link-modal {
